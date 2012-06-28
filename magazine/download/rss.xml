@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.nelonen.fi"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+ <title>Radio Rock – 100 Rockin legendaa</title>
+ <link>http://www.radiorock.fi/external/player</link>
+ <description>Kuuntele 100 Rockin legendaa podcasteina.</description>
+ <language>fi</language>
+ <itunes:summary>Asenne on Rock.</itunes:summary>
+ <itunes:category text="Music" />
+ <itunes:image href="http://www.nelonen.fi/sites/radiorock.fi/files/images/ba1f783b2240b324e24920c021a36ff6_itunes_radiorock_600x600.jpg" />
+ <author>Radio Rock</author>
+  <item>
+   <title>100 Rockin legendaa</title>
+   <link>http://www.nelonen.fi/media/113904</link>
+   <description>Tieto on valtaa. Ja huhu toisinaan ilkivaltaa äärimmäisessä muodossaan.
+  </description>
+   <itunes:author />
+   <itunes:subtitle>Tieto on valtaa. Ja huhu toisinaan ilkivaltaa äärimmäisessä muodossaan.</itunes:subtitle>
+   <itunes:summary>Tieto on valtaa. Ja huhu toisinaan ilkivaltaa äärimmäisessä muodossaan.</itunes:summary>
+   <enclosure url="http://www.nelonen.fi/sites/nelonen.fi/files/audio/podcast/Podcast_cab6a1497bf5.mp3" length="16452096" type="audio/mpeg" />
+   <itunes:keywords />
+   <guid isPermaLink="false">113904 at http://www.nelonen.fi</guid>
+   <category />
+   <pubDate>Thu, 08 Apr 2010 09:39:21 +0000</pubDate>
+  </item>
+  <item>
+   <title>100 Rockin legendaa</title>
+   <link>http://www.nelonen.fi/media/113871</link>
+   <description>Lemmy - Rockin ruumiillistuma.
+  </description>
+   <itunes:author />
+   <itunes:subtitle>Lemmy - Rockin ruumiillistuma.</itunes:subtitle>
+   <itunes:summary>Lemmy - Rockin ruumiillistuma.</itunes:summary>
+   <enclosure url="http://www.nelonen.fi/sites/nelonen.fi/files/audio/podcast/Podcast_049304110726.mp3" length="7720320" type="audio/mpeg" />
+   <itunes:keywords />
+   <guid isPermaLink="false">113871 at http://www.nelonen.fi</guid>
+   <category />
+   <pubDate>Thu, 08 Apr 2010 09:12:58 +0000</pubDate>
+  </item>
+  <item>
+   <title>100 Rockin legendaa</title>
+   <link>http://www.nelonen.fi/media/113870</link>
+   <description>Näin tutustuin Radio Rock Finlandia-2008 ehdokkaaseen/ osa 3.
+  </description>
+   <itunes:author />
+   <itunes:subtitle>Näin tutustuin Radio Rock Finlandia-2008 ehdokkaaseen/ osa 3.</itunes:subtitle>
+   <itunes:summary>Näin tutustuin Radio Rock Finlandia-2008 ehdokkaaseen/ osa 3.</itunes:summary>
+   <enclosure url="http://www.nelonen.fi/sites/nelonen.fi/files/audio/podcast/Podcast_97129318711f.mp3" length="7742208" type="audio/mpeg" />
+   <itunes:keywords />
+   <guid isPermaLink="false">113870 at http://www.nelonen.fi</guid>
+   <category />
+   <pubDate>Thu, 08 Apr 2010 09:12:54 +0000</pubDate>
+  </item>
+  <item>
+   <title>100 Rockin legendaa</title>
+   <link>http://www.nelonen.fi/media/113814</link>
+   <description>Näin tapasin Radio Rock Finlandia 2008-ehdokkaan/ osa 2.
+  </description>
+   <itunes:author />
+   <itunes:subtitle>Näin tapasin Radio Rock Finlandia 2008-ehdokkaan/ osa 2.</itunes:subtitle>
+   <itunes:summary>Näin tapasin Radio Rock Finlandia 2008-ehdokkaan/ osa 2.</itunes:summary>
+   <enclosure url="http://www.nelonen.fi/sites/nelonen.fi/files/audio/podcast/Podcast_f516eeca4d99.mp3" length="7612800" type="audio/mpeg" />
+   <itunes:keywords />
+   <guid isPermaLink="false">113814 at http://www.nelonen.fi</guid>
+   <category />
+   <pubDate>Thu, 08 Apr 2010 08:20:56 +0000</pubDate>
+  </item>
+  <item>
+   <title>100 rockin legendaa</title>
+   <link>http://www.nelonen.fi/media/113813</link>
+   <description>Näin tutustuin Radio Rock Finlandia 2008-ehdokkaaseen/ osa 1.
+  </description>
+   <itunes:author />
+   <itunes:subtitle>Näin tutustuin Radio Rock Finlandia 2008-ehdokkaaseen/ osa 1.</itunes:subtitle>
+   <itunes:summary>Näin tutustuin Radio Rock Finlandia 2008-ehdokkaaseen/ osa 1.</itunes:summary>
+   <enclosure url="http://www.nelonen.fi/sites/nelonen.fi/files/audio/podcast/Podcast_ae263e188c53.mp3" length="8875392" type="audio/mpeg" />
+   <itunes:keywords />
+   <guid isPermaLink="false">113813 at http://www.nelonen.fi</guid>
+   <category />
+   <pubDate>Thu, 08 Apr 2010 08:20:54 +0000</pubDate>
+  </item>
+  <item>
+   <title>100 Rockin legendaa</title>
+   <link>http://www.nelonen.fi/media/113812</link>
+   <description>Sateenkaaren tuolla puolen.
+  </description>
+   <itunes:author />
+   <itunes:subtitle>Sateenkaaren tuolla puolen.</itunes:subtitle>
+   <itunes:summary>Sateenkaaren tuolla puolen.</itunes:summary>
+   <enclosure url="http://www.nelonen.fi/sites/nelonen.fi/files/audio/podcast/Podcast_13dc488a749f.mp3" length="7382016" type="audio/mpeg" />
+   <itunes:keywords />
+   <guid isPermaLink="false">113812 at http://www.nelonen.fi</guid>
+   <category />
+   <pubDate>Thu, 08 Apr 2010 08:20:50 +0000</pubDate>
+  </item>
+  <item>
+   <title>100 Rockin legendaa</title>
+   <link>http://www.nelonen.fi/media/113806</link>
+   <description>Äänilevyjen Salatut elämät.
+  </description>
+   <itunes:author />
+   <itunes:subtitle>Äänilevyjen Salatut elämät.</itunes:subtitle>
+   <itunes:summary>Äänilevyjen Salatut elämät.</itunes:summary>
+   <enclosure url="http://www.nelonen.fi/sites/nelonen.fi/files/audio/podcast/Podcast_4bb798acbe4f.mp3" length="6356352" type="audio/mpeg" />
+   <itunes:keywords />
+   <guid isPermaLink="false">113806 at http://www.nelonen.fi</guid>
+   <category />
+   <pubDate>Thu, 08 Apr 2010 08:20:31 +0000</pubDate>
+  </item>
+  <item>
+   <title>100 Rockin legendaa</title>
+   <link>http://www.nelonen.fi/media/113796</link>
+   <description>Kingston Wall - Suomen suurin kulttibändi.
+  </description>
+   <itunes:author />
+   <itunes:subtitle>Kingston Wall - Suomen suurin kulttibändi.</itunes:subtitle>
+   <itunes:summary>Kingston Wall - Suomen suurin kulttibändi.</itunes:summary>
+   <enclosure url="http://www.nelonen.fi/sites/nelonen.fi/files/audio/podcast/Podcast_667ebe04f7b7.mp3" length="7235328" type="audio/mpeg" />
+   <itunes:keywords />
+   <guid isPermaLink="false">113796 at http://www.nelonen.fi</guid>
+   <category />
+   <pubDate>Thu, 08 Apr 2010 08:19:36 +0000</pubDate>
+  </item>
+  <item>
+   <title>100 Rockin legendaa</title>
+   <link>http://www.nelonen.fi/media/113795</link>
+   <description>James Hetfield oli liekeissä vuonna 1992 - ja niin oli stadionkin esiintymisensä jälkeen.
+  </description>
+   <itunes:author />
+   <itunes:subtitle>James Hetfield oli liekeissä vuonna 1992 - ja niin oli stadionkin esiintymisensä jälkeen.</itunes:subtitle>
+   <itunes:summary>James Hetfield oli liekeissä vuonna 1992 - ja niin oli stadionkin esiintymisensä jälkeen.</itunes:summary>
+   <enclosure url="http://www.nelonen.fi/sites/nelonen.fi/files/audio/podcast/Podcast_258778bc70f1.mp3" length="4186368" type="audio/mpeg" />
+   <itunes:keywords />
+   <guid isPermaLink="false">113795 at http://www.nelonen.fi</guid>
+   <category />
+   <pubDate>Thu, 08 Apr 2010 08:19:30 +0000</pubDate>
+  </item>
+  <item>
+   <title>100 Rockin legendaa</title>
+   <link>http://www.nelonen.fi/media/113794</link>
+   <description>Peter Steele kuoli v. 2005.
+  </description>
+   <itunes:author />
+   <itunes:subtitle>Peter Steele kuoli v. 2005.</itunes:subtitle>
+   <itunes:summary>Peter Steele kuoli v. 2005.</itunes:summary>
+   <enclosure url="http://www.nelonen.fi/sites/nelonen.fi/files/audio/podcast/Podcast_ff47a46998c6.mp3" length="6211968" type="audio/mpeg" />
+   <itunes:keywords />
+   <guid isPermaLink="false">113794 at http://www.nelonen.fi</guid>
+   <category />
+   <pubDate>Thu, 08 Apr 2010 08:19:30 +0000</pubDate>
+  </item>
+</channel>
+</rss>
